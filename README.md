@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="AutoLog Pro Banner" src="/screen.png" />
+<img width="200" height="475" alt="AutoLog Pro Banner" src="/screen.png" />
 </div>
 
 # AutoLog Pro
